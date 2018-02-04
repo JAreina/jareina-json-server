@@ -28,11 +28,5 @@
     "usuario": "Barrett Glenn",
     "gender": "male",
     "mensaje": "Hello, soy Barrett Glenn"
-  },
-  {
-    "index": 5,
-    "usuario": "Pope Coffey",
-    "gender": "male",
-    "mensaje": "Hello, soy Pope Coffey"
   }
 ]
